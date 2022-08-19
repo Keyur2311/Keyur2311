@@ -37,6 +37,6 @@ Atcoder - Brown (Max-rating : **617**)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/keyurr2311)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Keyur2311/)
 
-# Keyur's GitHub stats
-[![Keyur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyur2311)](https://github.com/Keyur2311/github-readme-stats)
+## Keyur's GitHub stats
+[![Keyur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyur2311&show_icons=true&theme=onedark)](https://github.com/Keyur2311/github-readme-stats)
 
