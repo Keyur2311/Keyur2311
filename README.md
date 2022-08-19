@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1o4Qc8jGwBlfdc3Xn4Pywn7C22vAOLbk6)
+![](https://ibb.co/PQQJ2Th)
 
 # Hi, I'm Keyur! 👋
 
