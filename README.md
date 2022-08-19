@@ -1,4 +1,4 @@
-![alt text](C:\Users\Keyur\Downloads\Blue-Modern-Twitter-Header.png)
+![](https://drive.google.com/file/d/1o4Qc8jGwBlfdc3Xn4Pywn7C22vAOLbk6)
 
 # Hi, I'm Keyur! 👋
 
