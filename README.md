@@ -8,9 +8,9 @@
 I'm a self-taught programmer who loves competitive programming.
 I'm also interested in front-end webdevelopment.
 
-Codechef - 4* (Max-rating : 1835)
-Codeforces - Pupil (Max-rating : 1328)
-Atcoder - Brown (Max-rating : 617) 
+Codechef - 4* (Max-rating : **1835**)\
+Codeforces - Pupil (Max-rating : **1328**)\
+Atcoder - Brown (Max-rating : **617**) 
 
 
 ## What I'm doing
