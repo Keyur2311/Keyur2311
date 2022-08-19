@@ -9,7 +9,7 @@ I'm also interested in front-end webdevelopment.
 I'm 4* on Codechef , brown on Atcoder and pupil on codeforces.
 
 
-# What I'm doing
+## What I'm doing
 👩‍💻 I'm currently working on **competitve programming** and **web-development**.
 
 🧠 I'm currently learning React.js and Python.
