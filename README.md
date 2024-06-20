@@ -9,14 +9,16 @@ I'm a self-taught programmer who loves competitive programming.
 I'm also interested in front-end webdevelopment.
 
 Codechef - 4* (Max-rating : **1835**)\
+Leetcode - Top 8% (Max-rating : **1798**)\
 Codeforces - Pupil (Max-rating : **1328**)\
 Atcoder - Brown (Max-rating : **617**) 
+
 
 
 ## What I'm doing
 👩‍💻 I'm currently working on **competitve programming** and **web-development**.
 
-🧠 I'm currently learning React.js and Python.
+🧠 I'm currently learning MERN stack.
 
 
 ## 🛠 Skills
@@ -25,6 +27,11 @@ Atcoder - Brown (Max-rating : **617**)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
