@@ -50,3 +50,5 @@ Atcoder - Brown (Max-rating : **759**)
 ## Keyur's GitHub stats
 [![Keyur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyur2311&show_icons=true&theme=onedark)](https://github.com/Keyur2311/github-readme-stats)
 
+[![Profile views](https://visitcount.itsvg.in/api?id=Keyur2311&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
