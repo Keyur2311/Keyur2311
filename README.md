@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 I'm a self-taught programmer who loves competitive programming.
-I'm also interested in front-end webdevelopment.
+I'm also interested in web-development.
 
+Codeforces - Specialist (Max-rating : **1414**)\
+Leetcode - Top 5% (Max-rating : **1870**)\
 Codechef - 3* (Max-rating : **1600**)\
-Leetcode - Top 8% (Max-rating : **1798**)\
-Codeforces - Pupil (Max-rating : **1339**)\
 Atcoder - Brown (Max-rating : **759**) 
 
 
