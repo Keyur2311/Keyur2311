@@ -8,7 +8,7 @@
 I'm a self-taught programmer who loves competitive programming.
 I'm also interested in web-development.
 
-Codeforces - Specialist (Max-rating : **1414**)\
+Codeforces - Specialist (Max-rating : **1416**)\
 Leetcode - Top 6% (Max-rating : **1828**)\
 Codechef - 3* (Max-rating : **1600**)\
 Atcoder - Brown (Max-rating : **759**) 
